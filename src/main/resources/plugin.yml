@@ -1,0 +1,4 @@
+name: DeathGrave
+version: '1.0-SNAPSHOT'
+main: github.sillygoober2.deathGrave.DeathGrave
+api-version: '1.21.8'
